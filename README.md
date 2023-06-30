@@ -5,3 +5,5 @@ https://www.nature.com/articles/s41598-021-87602-3
 https://archive.ics.uci.edu/ml/datasets/Secondary+Mushroom+Dataset
 
 https://archive.ics.uci.edu/ml/machine-learning-databases/00615/MushroomDataset.zip
+
+Nota: 8.825
